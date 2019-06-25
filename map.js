@@ -10,5 +10,5 @@ let map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/yqjim111/cjuo8ys5p066h1fpln1cxlrw6',
     center: [-66.390, 18.187],
-    zoom: 8.2
+    zoom: 7.8
 })
